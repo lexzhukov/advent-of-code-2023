@@ -1,4 +1,4 @@
-const text = `
+const data = `
 fouronevhnrz44
 eightg1
 4ninejfpd1jmmnnzjdtk5sjfttvgtdqspvmnhfbm
@@ -1001,7 +1001,7 @@ threeninejdzzrbpmfhjcqdsix8two2bb
 15nine1
 `;
 
-const input = text.trim().split('\n');
+const input = data.trim().split('\n');
 
 function part1() {
   const numbers = [];
